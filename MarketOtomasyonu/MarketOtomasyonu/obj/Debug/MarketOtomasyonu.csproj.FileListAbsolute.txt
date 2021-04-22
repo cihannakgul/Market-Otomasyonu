@@ -1,0 +1,14 @@
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe.config
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.pdb
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csprojAssemblyReference.cache
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form1.resources
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Properties.Resources.resources
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.exe
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.pdb
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form2.resources
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form3.resources
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form4.resources
+C:\Users\Fender calan gibson\source\repos\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form5.resources
